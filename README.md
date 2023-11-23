@@ -38,7 +38,7 @@ layout, the list of equipment to use, as well as the schematics for the equipmen
 **Theatrette 1 Lighting Schematics**
 
 ```mermaid
-flowchart LR
+flowchart TD
 
    A[GrandMA 3] -- LAN --> B[Network Switch (1)]
    B -- LAN --> C[Network Switch (2)]
@@ -98,6 +98,7 @@ When in an open cicruit, no power should be going through and resistance should 
 OL(Open Line) will appear on the multimeter if its correct.
 
 **What to test/check?**
+
 To start off, we start by testing one phase to another. 
 E.g. Phase A to Phase B
 
@@ -110,14 +111,19 @@ The same goes for testing netural, live and earth.
 
 Live to Live
 Live to Neutral
+
 .
 .
+
 Neutral to Neutral
 Neutral to Earth
+
 .
 .
+
 Earth to Earth
 Earth to Live
+
 .
 .
 
