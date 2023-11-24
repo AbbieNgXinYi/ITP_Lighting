@@ -106,7 +106,7 @@ To start off, we start by testing one phase to another.
 
 E.g. Phase A to Phase B
 
-#### Step 1
+1) Step 1
 
 Phase to Phase
 
@@ -116,7 +116,7 @@ Phase to Neutral
 
 Phase to Earth
 
-#### Step 2
+2) Step 2
 
 The same goes for testing netural, live and earth.
 
@@ -141,16 +141,16 @@ Earth to Live
 .
 .
 
-#### Step 3
+3) Step 3
 
 Once you have tested that there is no current when dimmer rack is off and resistance is within 0-10 ohms,
 insert the processor for the dimmer rack. Check that processor is also in an open circuit before inserting into the dimmer rack.
 
-#### Step 4
+4) Step 4
 
 Once you have inserted the processor, you may switch on the dimmer rack power.
 
-#### Step 5
+5) Step 5
 
 Test for dimmer rack power and endure that when power is on, the range should be:
 
@@ -158,7 +158,7 @@ Test for dimmer rack power and endure that when power is on, the range should be
 
 *For Phase to live/neutral/earth - 230V*
 
-#### Step 6
+6) Step 6
 
 As rack is on, both Fan and processor should be working and swtiched on.
 
