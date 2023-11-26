@@ -41,7 +41,6 @@ layout, the list of equipment to use, as well as the schematics for the equipmen
 ---
 
 ```mermaid
-
 flowchart LR
 
    A[GrandMA 3] -- LAN --> B[Network Switch (1)]
