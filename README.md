@@ -209,6 +209,10 @@ Click the link below to download the application:
 
 <https://www.etcconnect.com/Products/Networking/System-Configuration/Software/Concert.aspx>
 
+#### Araneo
+
+We use this application
+
 
 ## Controls
 **[(Back To Top)](#table-of-content-)**
@@ -262,3 +266,14 @@ Click the link below to download the application:
 
 * In order to control the fixtures, you will need to key in the universes accordingly according to your patch
 * So if you patch universe 2 for one set of lighting fixtures, the port the fixtures are connected to has to be 2.
+
+
+### Software Applications 
+
+#### Araneo
+
+We use this application to help us configure the IP addresses of the luminex equipment.
+
+Click the link below to download the application:
+
+<https://www.luminex.be/products/software/araneo/>
