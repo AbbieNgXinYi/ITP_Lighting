@@ -42,16 +42,16 @@ layout, the list of equipment to use, as well as the schematics for the equipmen
 
 flowchart LR
 
-   A[GrandMA 3] -- LAN --> B[Network Switch 1]
-   B -- LAN --> C[Network Switch 2]
-   C -- LAN --> D[Luminode 4 - 1]
-   D -- LAN --> E[Sensor 3]
-   B -- LAN --> F[Luminode 4 - 2]
-   B -- LAN --> G[Luminode 4 - 3]
-   B -- LAN --> H[Luminode 4 - 4]
-   B -- LAN --> I[Luminode 4 - 5]
-   B -- LAN --> J(Luminode 4 - 6)
-   B -- LAN --> K[Luminode 4 - 7]
+   A[Lighting Console (GrandMA 3)] -- LAN --> B[Gigacore 26i-POE]
+   B -- LAN --> C[Gigacore 14K-POE]
+   C -- LAN --> D[Protocol Convertor (Luminode 4)]
+   D -- LAN --> E[Dimmer Rack (Sensor 3)]
+   B -- LAN --> F[Protocol Convertor (Luminode 4)]
+   B -- LAN --> G[Protocol Convertor (Luminode 4)]
+   B -- LAN --> H[Protocol Convertor (Luminode 4)]
+   B -- LAN --> I[Protocol Convertor (Luminode 4)]
+   B -- LAN --> J[Protocol Convertor (Luminode 4)]
+   B -- LAN --> K[Protocol Convertor (Luminode 4)]
    F -- DMX --> L[Lighting Fixtures]
    J -- DMX --> M[Lighting Fixtures]
    K -- DMX --> N[Lighting Fixtures]
